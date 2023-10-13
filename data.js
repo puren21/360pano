@@ -169,7 +169,7 @@ var APP_DATA = {
     },
     {
       "id": "2-1",
-      "name": "본관1",
+      "name": "본관",
       "levels": [
         {
           "tileSize": 256,
@@ -373,7 +373,7 @@ var APP_DATA = {
     },
     {
       "id": "5-",
-      "name": "\u001b별관",
+      "name": "별관",
       "levels": [
         {
           "tileSize": 256,
